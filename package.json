@@ -15,8 +15,8 @@
     "syncano-cli"
   ],
   "bin": {
-    "syncano-cli": "bin/syncano-global-cli.js",
-    "s": "bin/syncano-global-cli.js"
+    "s": "./bin/syncano-global-cli.js",
+    "syncano-cli": "./bin/syncano-global-cli.js"
   },
   "preferGlobal": "true",
   "author": "Maciej Korsan",
